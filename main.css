@@ -4,7 +4,7 @@ GENERAL
 
 body {
   font-family: 'Francois One', san-serif;
-  background: url("img/hero.jpg");
+  background: url("../img/hero.jpg");
   background-size: 100%;
   background-attachment: fixed;
 }
@@ -21,6 +21,10 @@ a {
 
 img {
   max-width: 100%;
+}
+
+li {
+  list-style: none;
 }
 
 .container {
